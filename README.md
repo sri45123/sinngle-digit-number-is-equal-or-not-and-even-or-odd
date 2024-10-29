@@ -1,0 +1,1 @@
+# sinngle-digit-number-is-equal-or-not-and-even-or-odd
